@@ -1,0 +1,7 @@
+Validation Result:
+------------------
+Missing Codes Count: 0
+
+All scheme codes from fund_master exist in nav_history.
+
+Status: PASS

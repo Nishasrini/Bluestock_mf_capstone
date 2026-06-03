@@ -1,4 +1,12 @@
-month,category,net_inflow_crore
+PS C:\Users\Nisha\OneDrive\Pictures\Documents\bluestock_mf_capstone> sqlite3 db/bluestock_mf.db
+sqlite3 : The term 'sqlite3' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a 
+path was included, verify that the path is correct and try again.
+At line:1 char:1
++ sqlite3 db/bluestock_mf.db
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (sqlite3:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
 2024-04,Large Cap,2413.0
 2024-04,Mid Cap,3897.0
 2024-04,Small Cap,3533.0
